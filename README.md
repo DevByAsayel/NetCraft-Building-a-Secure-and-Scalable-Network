@@ -11,15 +11,11 @@ The network is divided into four departments, each with its own subnet, switch, 
   - HR Department (3 PCs)
 - Four switches (one per department)
 - One main router for inter-network communication
-- Two servers providing:
-  - DHCP Services
-  - DNS Services
-  - Centralized File Hosting
+
  Objectives
 - Build a secure network topology following enterprise standards
 - Apply subnetting and VLAN segmentation for scalability
 - Configure inter-VLAN routing and ensure full connectivity
-- Deploy essential services (DHCP, DNS, File Server)
 - Document IP planning and device configuration professionally
 
  Tools & Technologies
@@ -27,6 +23,6 @@ The network is divided into four departments, each with its own subnet, switch, 
 
 
   Team Members
-- **Asaeyl Mamun Wali**
+- **Asaeyl Wali**
 - **Dina**
 Repository Structure
